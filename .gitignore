@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Virtual Env
+venv/
+env/
+.env
+
+# Colab & Local Files
+streamlit_logs.txt
+*.log
+*.png
+*.jpg
+*.jpeg
+
+# Hugging Face Cache
+.cache/
