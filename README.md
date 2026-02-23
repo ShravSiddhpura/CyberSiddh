@@ -155,7 +155,7 @@ CyberSiddh/
 
 ## 🖥️ CyberSID — Live Demo
 
-<img src="images/cyberSid_demo.png" width="900" alt="CyberSID UI Demo"/>
+<img src="images/hallu_UI.PNG" width="900" alt="CyberSID UI Demo"/>
 
 Built with **Streamlit** — dark mode, session-based threat history, and a **Threat Vault** to review all intercepted hallucinations.
 
